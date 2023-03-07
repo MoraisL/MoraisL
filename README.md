@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-morais-1969921b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  
- <hr color: #8B008B>
+ <hr color: "#8B008B">
 
  <img alt="Thanks for visiting me" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;" width="100%" height="120">
  
