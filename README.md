@@ -1,13 +1,14 @@
 ### 👋 Olá, bem vindo ao meu perfil do GitHub!!!
 ## 🔭 Atualmente estou cursando faculdade na área de Analise e Desenvolvimento de Sistemas
 
+ <img src="https://repository-images.githubusercontent.com/610888649/893206ba-8a17-4a3a-9dc6-a3841880430b" width="150" height="150"/>
+ 
 <div>
 <a href="https://github.com/MoraisL">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoraisL&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MoraisL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  <img src="https://repository-images.githubusercontent.com/610888649/893206ba-8a17-4a3a-9dc6-a3841880430b" width="40" height="40"/>
   
 ## Contatos:
 
