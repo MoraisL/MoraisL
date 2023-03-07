@@ -1,5 +1,6 @@
 ### 👋 Olá, bem vindo ao meu perfil do GitHub!!!
  <img src="https://repository-images.githubusercontent.com/610888649/893206ba-8a17-4a3a-9dc6-a3841880430b" width="250" height="250"/>
+ <hr>
  
 ## 🔭 Atualmente estou cursando faculdade na área de Analise e Desenvolvimento de Sistemas
 
@@ -24,7 +25,7 @@
 <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-morais-1969921b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  
- <hr color: "#8B008B">
+ <hr>
 
  <img alt="Thanks for visiting me" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width: 100%;" width="100%" height="120">
  
