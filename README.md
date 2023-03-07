@@ -26,4 +26,4 @@
 
  
  
- ![Snake animation](https://github.com/MoraisL/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MoraisL/MoraisL/blob/output/github-contribution-grid-snake.svg)
