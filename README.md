@@ -3,8 +3,6 @@
  
 ## 🔭 Atualmente estou cursando faculdade na área de Analise e Desenvolvimento de Sistemas
 
-<img src="https://repository-images.githubusercontent.com/610888649/778ad5e6-8111-4a2f-b137-afa2deb366ff" data-canonical-src="https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="270" align="left"; text-align="center";><br><br>
-
  
 <div>
 <a href="https://github.com/MoraisL">
@@ -13,6 +11,8 @@
 </div>
   
  
+ 
+ <img src="https://repository-images.githubusercontent.com/610888649/778ad5e6-8111-4a2f-b137-afa2deb366ff" data-canonical-src="https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="270" align="left"><br><br>
  
 ## Contatos:
 
