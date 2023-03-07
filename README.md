@@ -9,7 +9,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoraisL&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MoraisL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div><p>
-  
+ <hr>
  
  
  <img src="https://repository-images.githubusercontent.com/610888649/778ad5e6-8111-4a2f-b137-afa2deb366ff" data-canonical-src="https://media.giphy.com/media/6XX4V0O8a0xdS/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="270" align="left"><br><br>
