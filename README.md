@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=004AB6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Welcome+To+my+GitHub;I'm+18+years+old;I+study+analysis+and+systems+development+in+Senai;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=483d8b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+Welcome+To+my+GitHub;I'm+18+years+old;I+study+analysis+and+systems+development+in+Senai;)](https://git.io/typing-svg)
  <hr>
 
  
